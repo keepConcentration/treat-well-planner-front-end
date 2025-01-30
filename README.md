@@ -39,7 +39,7 @@
 ## ⏳ 프로젝트 구조
 
 ```plaintext
-treat-well-planner-front-end/
+treat-well-planner-frontend/
 ├── src/
 │   ├── components/         # React 컴포넌트
 │   ├── pages/              # 주요 페이지
@@ -59,14 +59,14 @@ treat-well-planner-front-end/
 아래 명령어를 복사해서 프로젝트를 로컬로 복제합니다:
 
 ```bash
-git clone https://github.com/keepConcentration/treat-well-planner-front-end.git
+git clone https://github.com/keepConcentration/treat-well-planner-frontend.git
 ```
 
 ### 2. 의존성 설치
 프로젝트 디렉토리로 이동 후 `npm install`로 의존성을 설치합니다.
 
 ```bash
-cd treat-well-planner-front-end
+cd treat-well-planner-frontend
 npm install
 ```
 
@@ -120,7 +120,7 @@ REACT_APP_GOOGLE_CLIENT_ID=your_google_client_id
 
 ## 📜 라이선스
 
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](https://github.com/keepConcentration/treat-well-planner-frontend/blob/main/LICENSE) 파일을 참고하세요.
 
 ---
 
@@ -138,4 +138,4 @@ REACT_APP_GOOGLE_CLIENT_ID=your_google_client_id
 
 궁금한 점이나 도움 요청은 Issues를 등록해주세요:
 
-- GitHub Issues: [Issues](https://github.com/keepConcentration/treat-well-planner-front-end/issues)
+- GitHub Issues: [Issues](https://github.com/keepConcentration/treat-well-planner-frontend/issues)
